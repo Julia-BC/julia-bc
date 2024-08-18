@@ -16,5 +16,4 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julia-BC&layout=compact&langs_count=16&theme=dracula"/>
 </div>
  
-
- ![Snake animation](https://github.com/Julia-BC/Julia-BC/blod/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Julia-BC/Julia-BC/blob/output/github-contribution-grid-snake.gif)
