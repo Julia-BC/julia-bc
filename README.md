@@ -1,15 +1,22 @@
-## Oii! Eu sou a Júlia Bernardes
+# Olá, eu sou a Júlia 👋
 
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Desenvolvedora de Software formada em Análise e Desenvolvimento de Sistemas.
+
+Tenho interesse em desenvolvimento de aplicações web e soluções tecnológicas.
+
+## Tecnologias
+- JavaScript
+- PHP
+- Python
+- HTML
+- CSS
+- MySQL
+- Git
+
+## Projetos em destaque
+🔹 Agenda Beauty – Sistema de agendamento para salões
+
+
 <div>
   <a href="https://github.com/Julia-BC">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Julia-BC&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
